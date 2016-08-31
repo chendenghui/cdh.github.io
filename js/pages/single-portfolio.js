@@ -95,16 +95,16 @@ $(document).ready(function() {
 		window.open("http://www.panguweb.cn/")
 	})
 	$(".jiuyou").click(function() {
-		window.open("http://www.pkey.cn/")
+		window.open("http://www.cjlh888.com/Home/List?secid=12&index=1")
 	})
 	$(".wecheat").click(function() {
-		window.open("https://mumu1993.github.io/wechat/")
+		window.open("https://chendenghui.github.io/cdh.github.io/wechat/")
 	})
 	$(".dom").click(function() {
-		window.open("https://mumu1993.github.io/dom/")
+		window.open("https://chendenghui.github.io/cdh.github.io/dom/")
 	})
 	$(".js").click(function() {
-		window.open("https://mumu1993.github.io/js-partice/")
+		window.open("https://chendenghui.github.io/cdh.github.io/js-partice/")
 	})
 	$(".message").click(function() {
 		alert("请在微信客户端搜索'青年聚合'公众号")
